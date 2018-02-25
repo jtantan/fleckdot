@@ -1,0 +1,13 @@
+name: fleckdot
+description: Server joining rest services.
+version: 0.0.1
+homepage:
+author: Jonathan Søyland-Lier <jonathan@soyland-lier.no>
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+dependencies:
+  jaguar: ^1.2.8
+  jaguar_reflect: ^1.2.6
+  http: any
